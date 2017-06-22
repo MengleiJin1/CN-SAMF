@@ -8,7 +8,13 @@ Instructions:
 3.Choose sequence.
 
 Reference
+
 [1]Xu Fulai, etc, "A Multi-Scale Kernel Correlation Filter Tracker with Feature Integration and Robust Model Updater",CCDC,2017
+
 [2] "Exploiting the circulant structure of tracking-by-detection with kernels." In ECCV, 2012.
+
 [3]Martin Danelljan, Fahad Shahbaz Khan, Michael Felsberg and Joost van de Weijer. "Adaptive Color Attributes for Real-Time Visual Tracking". CVPR, 2014.
+
 [4]Yang Li, Jianke Zhu. "A Scale Adaptive Kernel Correlation Filter Tracker with Feature Integration" European Conference on Computer Vision, Workshop VOT2014 (ECCVW), 2014
+
+[5]J. van de Weijer, C. Schmid, J. J. Verbeek, and D. Larlus. "Learning color names for real-world applications." TIP, 18(7):1512?524, 2009.
