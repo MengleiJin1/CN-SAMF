@@ -1,5 +1,5 @@
 # CN-SAMF
-This is a C++ implementation of the visual tracking method proposed in [1]
+This is a Matlab implementation of the visual tracking method proposed in [1]
 The implementation is built upon the code provided by [2][3][4]. The code provided by [5] is used for computing the color name representation.
 
 Instructions:
